@@ -1,2 +1,0 @@
-Kullandığım .tif dosyası linki,  https://drive.google.com/file/d/1YKpjg1Vc39tLz3MBAj7LOqI4HTvOq5my/view?usp=sharing
-3 band 150 mb civarı bir görsel seçtim isterseniz daha küçük bir parça yer seçip kullanadabiliriz. Çalıştırması o yüzden biraz zaman alıyor.
